@@ -34,6 +34,7 @@ untuk input array 3 dimensi.
     return indeks;
   }
   
+  // Input
   const input = [
     [
       [1, 0, 0],
@@ -52,6 +53,7 @@ untuk input array 3 dimensi.
     ],
   ];
   
+  // output
   const output = argwhere(input);
   console.log(output); //[ [ 0, 0, 0 ], [ 0, 1, 1 ], [ 1, 0, 0 ], [ 1, 1, 1 ] ]
 

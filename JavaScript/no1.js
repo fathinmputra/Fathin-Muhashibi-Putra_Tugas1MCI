@@ -1,5 +1,8 @@
-// Buatkan program menggunakan Function Expression dengan JavaScript dengan tujuan menampilkan 
-// kalimat (“Saya Calon Admin MCI”) dengan delay 3000 ms lalu tampilkan nama anda.
+/*
+No. 1
+Buatkan program menggunakan Function Expression dengan JavaScript dengan tujuan menampilkan 
+kalimat (“Saya Calon Admin MCI”) dengan delay 3000 ms lalu tampilkan nama anda.
+*/
 
 const NamaCalonAdminMCI = function() {
     console.log("Saya Calon Admin MCI");

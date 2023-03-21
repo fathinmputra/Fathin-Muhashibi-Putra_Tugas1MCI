@@ -1,4 +1,8 @@
-// File pertama berisikan fungsi aritmatika sederhana seperti penjumlahan, pengurangan, perkalian, pembagian
+/*
+No. 2
+File Pertama :
+File pertama berisikan fungsi aritmatika sederhana seperti penjumlahan, pengurangan, perkalian, pembagian
+*/
 
 function pertambahan(a, b) {
     return a + b;
